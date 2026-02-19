@@ -22,7 +22,7 @@ This dataset is derived from the U.S. Bureau of Transportation Statistics (BTS) 
 
 ## Important Notes About the Datasets
 
-The original raw dataset and cleaned dataset are very large and exceed GitHub’s file size limits. Therefore, only the first **10,000 rows** of each dataset are included in this repository, under the folder `Data`:
+The original raw dataset and cleaned dataset are very large and exceed GitHub’s file size limits. Therefore, only the first **10,000 rows** of each dataset are included in this repository, under the folder `Data/`:
 
 - `flight_data_2024_sample.csv`: this is the sample of the **original** raw dataset downloaded from Kaggle. 
 - `flights_clean_feature_engineered_sample.csv`: this is a sample of the **final** cleaned and preprocessed dataset. 
@@ -39,19 +39,17 @@ The code in this repository works identically on the full dataset that was downl
 
 ## Repository Structure
 ```
-├── data/
+├── Data/
 │   ├── flight_data_2024_sample.csv
 │   └── flights_clean_feature_engineered_sample.csv
 │
-├── notebooks/
+├── Notebooks/
 │   ├── datacleaning.ipynb
 │   ├── flight_feature_engineering.ipynb
 │   └── EDA.ipynb
 │
-├── report/
+├── Report/
 │   └── flight_delay_report.pdf
-│
-├── requirements.txt
 │
 └── README.md
 ```
@@ -74,7 +72,7 @@ jupyter notebook
 
 https://www.kaggle.com/datasets/hrishitpatil/flight-data-2024
 
-In our Data/ folder, there is a sample of the data under `flight_data_2024_sample.csv`. 
+In our `Data/` folder, there is a sample of the data under `flight_data_2024_sample.csv`. 
 
 Run the notebooks in this order, and update file paths in the notebooks if necessary:
 
