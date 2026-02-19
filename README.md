@@ -80,7 +80,7 @@ Run the notebooks in this order, and update file paths in the notebooks if neces
 2. flight_feature_engineering.ipynb
 3. EDA.ipynb
 
-The second notebook will produce the final cleaned and preprocessed version of the data, a sample of which is available in our Data/ folder under `flights_clean_feature_engineered_sample.csv`. 
+The second notebook will produce the final cleaned and preprocessed version of the data, a sample of which is available in our `Data/` folder under `flights_clean_feature_engineered_sample.csv`. 
 
 Aside from changes in file paths, the pipeline will run without modification.
 
