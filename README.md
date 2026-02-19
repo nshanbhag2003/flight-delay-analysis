@@ -25,7 +25,7 @@ This dataset is derived from the U.S. Bureau of Transportation Statistics (BTS) 
 The original raw dataset and cleaned dataset are very large and exceed GitHub’s file size limits. Therefore, only the first **10,000 rows** of each dataset are included in this repository, under the folder `Data`:
 
 - `flight_data_2024_sample.csv`: this is the sample of the **original** raw dataset downloaded from Kaggle. 
-- `flights_clean_feature_engineered_sample.csv`: this is the **final** cleaned and preprocessed dataset. 
+- `flights_clean_feature_engineered_sample.csv`: this is a sample of the **final** cleaned and preprocessed dataset. 
 
 These sample files are provided to:
 
