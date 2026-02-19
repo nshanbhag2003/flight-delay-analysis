@@ -74,7 +74,7 @@ https://www.kaggle.com/datasets/hrishitpatil/flight-data-2024
 
 In our `Data/` folder, there is a sample of the data under `flight_data_2024_sample.csv`. 
 
-Run the notebooks in this order, and update file paths in the notebooks if necessary:
+Run the Jupyter notebooks stored under the `Notebooks` folder in the exact order below, and update file paths in the notebooks as necessary:
 
 1. datacleaning.ipynb
 2. flight_feature_engineering.ipynb
