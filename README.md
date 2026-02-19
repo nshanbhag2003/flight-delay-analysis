@@ -1,4 +1,4 @@
-# Project 1: Flight Delay Analysis
+#  Applied Data Science (STAT GR 5243) Project 1: Flight Delay Analysis
 
 ## Overview
 
