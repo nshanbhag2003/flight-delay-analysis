@@ -48,8 +48,7 @@ The code in this repository works identically on the full dataset that was downl
 │   ├── flight_feature_engineering.ipynb
 │   └── EDA.ipynb
 │
-├── Report/
-│   └── Project_1_Report.ipynb
+├── Project_1_Report.ipynb
 │
 └── README.md
 ```
