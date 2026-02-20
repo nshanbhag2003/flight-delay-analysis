@@ -49,7 +49,7 @@ The code in this repository works identically on the full dataset that was downl
 │   └── EDA.ipynb
 │
 ├── Report/
-│   └── flight_delay_report.pdf
+│   └── Project_1_Report.ipynb
 │
 └── README.md
 ```
